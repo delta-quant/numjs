@@ -6,6 +6,7 @@
   "directories": {
     "test": "test"
   },
+  "types": "./numjs.d.ts",
   "dependencies": {
     "cwise": "^1.0.8",
     "deasync": "^0.1.21",
